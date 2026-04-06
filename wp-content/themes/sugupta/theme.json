@@ -1,0 +1,102 @@
+{
+	"settings": {
+		"appearanceTools": true,
+		"spacing": {
+			"units": [
+				"%",
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw"
+			]
+		},
+		"layout": {
+			"contentSize": "3000px",
+			"wideSize": "3000px"
+		},
+		"typography": {
+			"customFontSize": true,
+			"dropCap": true,
+			"fontFamilies": [
+				{
+					"fontFamily": "\"Archivo\", sans-serif",
+					"name": "Archivo",
+					"slug": "poppins",
+					"fontFace": [
+						{
+							"fontFamily": "Archivo",
+							"fontWeight": "100",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./fonts/Archivo.woff2" ]
+						},
+						{
+							"fontFamily": "Archivo",
+							"fontWeight": "200",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./fonts/Archivo.woff2" ]
+						},
+						{
+							"fontFamily": "Archivo",
+							"fontWeight": "300",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./fonts/Archivo.woff2" ]
+						},
+						{
+							"fontFamily": "Archivo",
+							"fontWeight": "400",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./fonts/Archivo.woff2" ]
+						},
+						{
+							"fontFamily": "Archivo",
+							"fontWeight": "500",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./fonts/Archivo.woff2" ]
+						},
+						{
+							"fontFamily": "Archivo",
+							"fontWeight": "600",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./fonts/Archivo.woff2" ]
+						},
+						{
+							"fontFamily": "Archivo",
+							"fontWeight": "700",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./fonts/Archivo.woff2" ]
+						},
+						{
+							"fontFamily": "Archivo",
+							"fontWeight": "800",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./fonts/Archivo.woff2" ]
+						},
+						{
+							"fontFamily": "Archivo",
+							"fontWeight": "900",
+							"fontStyle": "normal",
+							"fontStretch": "normal",
+							"src": [ "file:./fonts/Archivo.woff2" ]
+						}
+					]
+				}
+			],
+			"defaultFontSizes": true,
+			"fontStyle": true,
+			"fontWeight": true,
+			"letterSpacing": true,
+			"textDecoration": true,
+			"textTransform": true
+		}
+	},
+	"version": 3
+}
